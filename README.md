@@ -88,5 +88,5 @@ Para replicar esta análise, siga os passos abaixo:
 
 Projeto desenvolvido por **Thiago Alencar** como parte de um desafio de Análise de Dados.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/seu-linkedin-aqui](https://www.linkedin.com/in/thiago-alencar-antonio)/)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)]([https://github.com/seu-usuario](https://github.com/Thiago-Alencar)/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thiago-alencar-antonio/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Thiago-Alencar/)
